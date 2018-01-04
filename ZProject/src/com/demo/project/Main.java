@@ -12,5 +12,6 @@ public class Main {
  public static void display() 
  {
 	 System.out.println("This is first git repository");
+	 System.out.println("This is second commit");
  }
 }
